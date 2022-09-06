@@ -4,7 +4,7 @@ a = int(input("enter the number total number to make a list"))
 for i in range(0,a):
     n=int(input("enter the numbers"))
     list.append(n)
-
+print("the list that you have created is ",list)
 i=0
 element= int(input("enter the element to serach"))
 for x in list:
