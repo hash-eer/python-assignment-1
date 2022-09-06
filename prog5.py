@@ -3,7 +3,7 @@ count=0
 sum=0
 n=1
 while n!=0:
-    n=int(input(""))
+    n=int(input("enter the number to calculate sum and press 0 to stop"))
     sum=sum+n
     count+=1
     
